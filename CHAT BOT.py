@@ -1,5 +1,7 @@
 import pyttsx3 as sp
 import selenium
+#here we all import the all modules
+
 from selenium import webdriver
 sp.speak("welcome to whatsapp ")
 sp.speak("login to your account")
