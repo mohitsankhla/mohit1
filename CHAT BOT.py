@@ -25,3 +25,4 @@ for i in range(Number):
   messagebox.send_keys(message)
   messagebox.send_keys(Keys.ENTER)
 print(" message sent")
+#nice project it works
